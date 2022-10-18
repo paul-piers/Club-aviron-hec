@@ -1,0 +1,14 @@
+.card {
+	align-items: center;
+    padding: 26px;
+    justify-content: space-between;
+    border-radius: 10px;
+    display: flex;
+    background-color: white;
+}
+
+.card img {
+	width: 100px;
+	
+}
+
